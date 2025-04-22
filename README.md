@@ -22,7 +22,7 @@ Step 7: Print the results.<br>
 
 
 ## Output :
-<Show the results>
+sdwwdw
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
